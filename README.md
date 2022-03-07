@@ -1,2 +1,4 @@
 # crystalsystemcourse
-Personal Project for the DSC by Miguel Salas.
+Personal Project by Miguel Salas, Data Science and Mathematics Student.
+
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM).
